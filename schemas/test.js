@@ -5,7 +5,7 @@ export default {
   fields: [
     {
       name: "something1",
-      type: "something",
+      type: "string",
       group: "group",
     },
   ],
