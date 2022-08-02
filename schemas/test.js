@@ -4,7 +4,8 @@ export default {
   type: "document",
   fields: [
     {
-      name: "something1",
+      name: "something",
+      title: "Something",
       type: "string",
       group: "group",
     },
@@ -12,7 +13,7 @@ export default {
   groups: [
     {
       name: "group",
-      title: "Group1",
+      title: "Group",
     },
   ],
 };
